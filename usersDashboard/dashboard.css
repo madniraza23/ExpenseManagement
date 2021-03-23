@@ -1,0 +1,51 @@
+#header {
+    background: #132237;
+    color: #eff0f1;
+    margin-bottom: 15px;
+    padding: 20px;
+}
+#welcomeNote {
+    margin: 20px;
+}
+#logOut {
+    background: transparent;
+    border: 3px solid #c19d43;
+    color: #c19d43;
+    width: 50px;
+    font-weight: bolder;
+    border-radius: 50%;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.mybuttons {
+    width: 200px;
+    margin-top: 20px;
+}
+
+#addExpenses{
+    display: none;
+}
+
+.doneAddBtns {
+    width: 30%;
+}
+
+
+
+#searchTable{
+    display: none;
+}
+
+#searchError {
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#searchBtn {
+    background: rgb(2, 80, 80);
+    color: honeydew;
+    margin-top: 10px;
+}
+
